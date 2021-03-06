@@ -137,7 +137,7 @@ def tableroCompleto(tablero):
   return True
 
 
-print('¡Bienvenido al Ta Te Ti!')
+print('¡Bienvenido al Tres en linea!')
 
 while True:
   # Resetea el tablero
